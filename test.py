@@ -3,3 +3,4 @@ print("something added before merge")
 print("test_with_pull--merge")
 
 print("test_with_pull--rebase")
+print("something added before rebase")
